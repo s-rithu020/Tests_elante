@@ -13,6 +13,7 @@
 #define _ADD_INTEGER_H_
 
 #include "stdio.h"
+#include <limits.h>
 
 typedef enum function_status_t
 {

@@ -9,5 +9,6 @@ function_status_t add_integers(int param1, int param2, int* result)
     if(sum < INT_MIN)
         return UNDERFLOW;
 
-    return sum;
+    *result = sum;
+    return SUCCESS;
 }
