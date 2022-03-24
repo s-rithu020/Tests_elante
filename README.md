@@ -15,3 +15,6 @@ Function part of the unit test framework: expect_eq function, test_assert functi
 Multifile programming:
     one file with the add function
     another file with the testing of this function
+
+
+Test all functions in your code
