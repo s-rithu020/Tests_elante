@@ -25,3 +25,6 @@ Test all functions in your code
 
 *  Codiga
 ![Quality](https://api.codiga.io/project/32123/score/svg)
+
+* Build on Linux
+[![Build CI - Linux](https://github.com/s-rithu020/Tests_elante/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/s-rithu020/Tests_elante/actions/workflows/c-cpp.yml)
