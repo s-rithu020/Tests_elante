@@ -30,3 +30,10 @@ Test all functions in your code
 [![Build CI - Linux](https://github.com/s-rithu020/Tests_elante/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/s-rithu020/Tests_elante/actions/workflows/c-cpp.yml)
 
 * Add CI for Windows as well
+
+
+Compliance Checkpoints- 
+* How many lines of code
+* how many files
+* Do you have an Github actions set up?
+* Is the code able to build on Linux and Windows machine
