@@ -1,4 +1,7 @@
 # Tests_elante
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/90b0384492b0487e8d4a657c4ce3923f)](https://app.codacy.com/gh/s-rithu020/Tests_elante?utm_source=github.com&utm_medium=referral&utm_content=s-rithu020/Tests_elante&utm_campaign=Badge_Grade_Settings)
+
 Just for testing stuff (M1_name)
 
 * Use one type of case throughout. Either snake case or camel case.
