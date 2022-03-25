@@ -32,7 +32,7 @@ Test all functions in your code
 * Add CI for Windows as well
 
 
-Compliance Checkpoints- 
+# Compliance Checkpoints- 
 * How many lines of code
 * how many files
 * Do you have an Github actions set up?
