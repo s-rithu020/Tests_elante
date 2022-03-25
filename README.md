@@ -28,3 +28,5 @@ Test all functions in your code
 
 * Build on Linux
 [![Build CI - Linux](https://github.com/s-rithu020/Tests_elante/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/s-rithu020/Tests_elante/actions/workflows/c-cpp.yml)
+
+* Add CI for Windows as well
