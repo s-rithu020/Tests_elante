@@ -18,3 +18,10 @@ Multifile programming:
 
 
 Test all functions in your code
+
+# Badges
+* Codacy
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/555f39ee2836480b8a4c980c423f798f)](https://www.codacy.com/gh/s-rithu020/Tests_elante/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=s-rithu020/Tests_elante&amp;utm_campaign=Badge_Grade)
+
+*  Codiga
+![Quality](https://api.codiga.io/project/32123/score/svg)
